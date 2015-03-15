@@ -1,16 +1,22 @@
 {
-	"name": "sunnysideup/typography",
+	"name": "xplore/typography",
 	"type": "silverstripe-module",
 	"description": "Add a typography test page to your silverstripe website / application.",
-	"homepage": "http://www.silverstripe-webdevelopment.com",
+	"homepage": "http://xplore.net",
 	"keywords": ["typography", "silverstripe", "developer tool", "front-end design", "font styling", "fonts", "html editing", "TinyMCE"],
-	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+	"license": "MIT",
 	"authors":[
 		{
 			"name": "Nicolaas Francken",
 			"homepage": "https://github.com/sunnysideup",
 			"email" : "modules@sunnysideup.co.nz",
-			"role" : "lead developer"
+			"role" : "Initial Package Developer"
+		},
+		{
+			"name": "Xplore Developers",
+			"homepage": "https://xplore.net",
+			"email" : "developers@xplore.net",
+			"role" : "Maintainers of Fork"
 		}
 	],
 	"require":{
